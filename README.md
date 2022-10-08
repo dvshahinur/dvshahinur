@@ -23,7 +23,7 @@ Skills: Javascript / Node.js / PHP / React.js / Html / Css
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dvshahinur&show_icons=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/dvshahinur)  
 
